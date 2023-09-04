@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.maindiv {
+  background-color: cadetblue;
+  width: 250px;
+  height: 350px;
+  border-radius: 5px;
+}
+input {
+  margin: 10px 5px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  padding: 5px;
+}
